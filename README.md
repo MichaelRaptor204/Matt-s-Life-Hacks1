@@ -13,6 +13,9 @@ This site was created by Jaden W.</p>
 <br>
 <h4>"You dont need to clean the floor, if you ain't got one." - Matt, 2017
 </h4>
+ <br>
+ <br>
+ <h4>"Why bother taking a shower when you're just gonna get dirty again, anyways." - Matt, 2017 </h4>
 
 
 </body>

@@ -16,6 +16,10 @@ This site was created by Jaden W.</p>
  <br>
  <br>
  <h4>"Why bother taking a shower when you're just gonna get dirty again, anyways." - Matt, 2017 </h4>
+<br>
+<br>
+<h4>"You don't gotta worry about washing your hair if you don't have any" - Matt   </h4>
+
 
 
 </body>
